@@ -1,0 +1,173 @@
+2026-04-13 10:50:11,249 - INFO - Starting scraper....
+2026-04-13 10:50:11,249 - INFO - Using API Key: 3f20****ea17
+2026-04-13 10:50:11,255 - INFO - 
+Processing: Bombay Scottish School Powai
+2026-04-13 10:50:11,255 - INFO - Searching: Bombay Scottish School Powai principal linkedin
+2026-04-13 10:50:13,636 - INFO - Result: Jane Kotian - BOMBAY SCOTTISH SCHOOL, POWAI - LinkedIn | https://in.linkedin.com/in/jane-kotian-b4a1a11a0
+2026-04-13 10:50:13,636 - INFO - Result: Jane Kotian - Bombay Scottish School, Powai - LinkedIn | https://in.linkedin.com/in/jane-kotian-b67665307
+2026-04-13 10:50:13,637 - INFO - Result: Gopi Gandhi - markdavid #bombayscottish - LinkedIn | https://www.linkedin.com/posts/gopi-gandhi-46314a21_markdavid-bombayscottish-activity-6775957001248874496-NX5c
+2026-04-13 10:50:13,637 - INFO - Result: Bombay Scottish School Employees, Location, Alumni - LinkedIn | https://in.linkedin.com/school/bombay-scottish-school/
+2026-04-13 10:50:13,638 - INFO - Result: Sunita George - Principal at Bombay Scottish School- Mahim | https://in.linkedin.com/in/sunita-george-a9b87451
+2026-04-13 10:50:13,638 - INFO - Checking: Jane Kotian - BOMBAY SCOTTISH SCHOOL, POWAI - LinkedIn | Score: 8
+2026-04-13 10:50:13,639 - INFO - Checking: Jane Kotian - Bombay Scottish School, Powai - LinkedIn | Score: 5
+2026-04-13 10:50:13,639 - INFO - Checking: Gopi Gandhi - markdavid #bombayscottish - LinkedIn | Score: 3
+2026-04-13 10:50:13,640 - INFO - Checking: Bombay Scottish School Employees, Location, Alumni - LinkedIn | Score: 5
+2026-04-13 10:50:13,640 - INFO - Checking: Sunita George - Principal at Bombay Scottish School- Mahim | Score: 11
+2026-04-13 10:50:13,642 - INFO - Found: Sunita George | Principal | https://in.linkedin.com/in/sunita-george-a9b87451
+2026-04-13 10:50:13,643 - INFO - 
+Processing: Jamnabai Narsee School
+2026-04-13 10:50:13,645 - INFO - Searching: Jamnabai Narsee School principal linkedin
+2026-04-13 10:50:15,596 - INFO - Result: Sonali Gandhi - Narsee Monjee Educational Trust's - LinkedIn | https://in.linkedin.com/in/sonali-gandhi-6514bb148
+2026-04-13 10:50:15,596 - INFO - Result: Josephine (Jessie) Vas - Advisor School Education - LinkedIn | https://in.linkedin.com/in/josephine-jessie-vas-b9805521
+2026-04-13 10:50:15,598 - INFO - Result: Zeenat Bhojabhoy - Jamnabai Narsee School, Mumbai - LinkedIn | https://in.linkedin.com/in/zeenat-bhojabhoy-953b50a9
+2026-04-13 10:50:15,598 - INFO - Result: Anupama Singh - Jamnabai Narsee School - LinkedIn | https://in.linkedin.com/in/anupama-singh-38a3451a7
+2026-04-13 10:50:15,598 - INFO - Result: Ms. Josephine Vas | Sujay Jairaj | 112 comments - LinkedIn | https://www.linkedin.com/posts/sujayjairaj_ms-josephine-vas-better-known-as-ms-jessie-activity-6887355925808631808-tRFL
+2026-04-13 10:50:15,600 - INFO - Checking: Sonali Gandhi - Narsee Monjee Educational Trust's - LinkedIn | Score: 8
+2026-04-13 10:50:15,600 - INFO - Checking: Josephine (Jessie) Vas - Advisor School Education - LinkedIn | Score: 11
+2026-04-13 10:50:15,600 - INFO - Checking: Zeenat Bhojabhoy - Jamnabai Narsee School, Mumbai - LinkedIn | Score: 11
+2026-04-13 10:50:15,600 - INFO - Checking: Anupama Singh - Jamnabai Narsee School - LinkedIn | Score: 8
+2026-04-13 10:50:15,600 - INFO - Checking: Ms. Josephine Vas | Sujay Jairaj | 112 comments - LinkedIn | Score: 3
+2026-04-13 10:50:15,600 - INFO - Found: Josephine (Jessie) Vas | Principal | https://in.linkedin.com/in/josephine-jessie-vas-b9805521
+2026-04-13 10:50:15,600 - INFO - 
+Processing: Ecole Mondiale World School
+2026-04-13 10:50:15,604 - INFO - Searching: Ecole Mondiale World School principal linkedin
+2026-04-13 10:50:17,720 - INFO - Result: Jo Williams - Principal at Ecole Mondiale World School | LinkedIn | https://in.linkedin.com/in/jo-williams-4104b852
+2026-04-13 10:50:17,722 - INFO - Result: EMWS Principal - École Mondiale World School - LinkedIn | https://in.linkedin.com/in/emws-principal-849965317
+2026-04-13 10:50:17,727 - INFO - Result: École Mondiale World School | LinkedIn | https://in.linkedin.com/company/ecolemondiale
+2026-04-13 10:50:17,730 - INFO - Result: Dr. Alka Goel's Post - LinkedIn | https://www.linkedin.com/posts/dr-alka-goel-907b5a137_some-places-dont-just-shape-your-career-activity-7336252449067847680-8EeZ
+2026-04-13 10:50:17,733 - INFO - Result: École Mondiale World School | 24 comments - LinkedIn | https://www.linkedin.com/posts/ecolemondiale_ecolemondialeworldschool-ecolites-ecolecommunitystories-activity-7319990037234761728-M-w4
+2026-04-13 10:50:17,736 - INFO - Checking: Jo Williams - Principal at Ecole Mondiale World School | LinkedIn | Score: 11
+2026-04-13 10:50:17,739 - INFO - Checking: EMWS Principal - École Mondiale World School - LinkedIn | Score: 8
+2026-04-13 10:50:17,743 - INFO - Checking: École Mondiale World School | LinkedIn | Score: 0
+2026-04-13 10:50:17,747 - INFO - Checking: Dr. Alka Goel's Post - LinkedIn | Score: 2
+2026-04-13 10:50:17,749 - INFO - Checking: École Mondiale World School | 24 comments - LinkedIn | Score: 3
+2026-04-13 10:50:17,752 - INFO - Found: Jo Williams | Principal | https://in.linkedin.com/in/jo-williams-4104b852
+2026-04-13 10:50:17,754 - INFO - 
+Processing: Oberoi International School
+2026-04-13 10:50:17,757 - INFO - Searching: Oberoi International School principal linkedin
+2026-04-13 10:50:19,884 - INFO - Result: Manjula Shenoi - Oberoi International School - LinkedIn | https://in.linkedin.com/in/manjula-shenoi-5b1b8423
+2026-04-13 10:50:19,886 - INFO - Result: Peter Murphy - Oberoi International School | LinkedIn | https://in.linkedin.com/in/peter-murphy-06782339
+2026-04-13 10:50:19,886 - INFO - Result: Paul Ducharme, Ed.D - Oberoi International School | LinkedIn | https://in.linkedin.com/in/paul-ducharme-ed-d-b0ab7a354
+2026-04-13 10:50:19,886 - INFO - Result: Paula Baxter - Head of Primary - LinkedIn | https://in.linkedin.com/in/paula-baxter-3584515b
+2026-04-13 10:50:19,886 - INFO - Result: Himani Bhatt - Oberoi International School | LinkedIn | https://in.linkedin.com/in/himani-bhatt-2a5540262
+2026-04-13 10:50:19,888 - INFO - Checking: Manjula Shenoi - Oberoi International School - LinkedIn | Score: 11
+2026-04-13 10:50:19,888 - INFO - Checking: Peter Murphy - Oberoi International School | LinkedIn | Score: 8
+2026-04-13 10:50:19,888 - INFO - Checking: Paul Ducharme, Ed.D - Oberoi International School | LinkedIn | Score: 8
+2026-04-13 10:50:19,888 - INFO - Checking: Paula Baxter - Head of Primary - LinkedIn | Score: 10
+2026-04-13 10:50:19,888 - INFO - Checking: Himani Bhatt - Oberoi International School | LinkedIn | Score: 8
+2026-04-13 10:50:19,888 - INFO - Found: Manjula Shenoi | Principal | https://in.linkedin.com/in/manjula-shenoi-5b1b8423
+2026-04-13 10:50:19,888 - INFO - 
+Processing: Aditya Birla World Academy
+2026-04-13 10:50:19,888 - INFO - Searching: Aditya Birla World Academy principal linkedin
+2026-04-13 10:50:21,304 - INFO - Result: Radhika Sinha - Principal at Aditya Birla World Academy | LinkedIn | https://in.linkedin.com/in/radhika-sinha-3796a045
+2026-04-13 10:50:21,306 - INFO - Result: Shalini John - Aditya Birla World Academy | LinkedIn | https://in.linkedin.com/in/shalini-john-43935053
+2026-04-13 10:50:21,306 - INFO - Result: Shalini John - Aditya Birla World Academy - LinkedIn | https://www.linkedin.com/posts/shalini-john-43935053_today-marks-13-years-at-aditya-birla-world-activity-7396925358194872320-Aajj
+2026-04-13 10:50:21,306 - INFO - Result: Shalini John | 15 comments - LinkedIn | https://www.linkedin.com/posts/shalini-john-43935053_adityabirlaworldacademy-excellenceineducation-activity-7277880919456182272-wn8K
+2026-04-13 10:50:21,306 - INFO - Result: Shalini John's Post - LinkedIn | https://www.linkedin.com/posts/shalini-john-43935053_proudmoment-teamabwa-educationalexcellence-activity-7251160243399802881-MRpC
+2026-04-13 10:50:21,306 - INFO - Checking: Radhika Sinha - Principal at Aditya Birla World Academy | LinkedIn | Score: 11
+2026-04-13 10:50:21,306 - INFO - Checking: Shalini John - Aditya Birla World Academy | LinkedIn | Score: 8
+2026-04-13 10:50:21,306 - INFO - Checking: Shalini John - Aditya Birla World Academy - LinkedIn | Score: 6
+2026-04-13 10:50:21,306 - INFO - Checking: Shalini John | 15 comments - LinkedIn | Score: 6
+2026-04-13 10:50:21,306 - INFO - Checking: Shalini John's Post - LinkedIn | Score: 6
+2026-04-13 10:50:21,306 - INFO - Found: Radhika Sinha | Principal | https://in.linkedin.com/in/radhika-sinha-3796a045
+2026-04-13 10:50:21,310 - INFO - 
+Processing: Singapore International School Mumbai
+2026-04-13 10:50:21,310 - INFO - Searching: Singapore International School Mumbai principal linkedin
+2026-04-13 10:50:23,460 - INFO - Result: Stephen Willoughby - Head of School (Principal) | LinkedIn | https://in.linkedin.com/in/stephen-willoughby-20728a21
+2026-04-13 10:50:23,460 - INFO - Result: Rajiv Kohli - Vijaybhoomi Singapore International School | LinkedIn | https://in.linkedin.com/in/rajiv-kohli-0482004
+2026-04-13 10:50:23,460 - INFO - Result: Stephen Willoughby's Post - LinkedIn | https://www.linkedin.com/posts/stephen-willoughby-20728a21_singaporeinternationalschool-education-activity-7365585601703641088-lLyk
+2026-04-13 10:50:23,460 - INFO - Result: Singapore International School, Mumbai(SIS) - LinkedIn | https://in.linkedin.com/school/singaporeinternationalschoolmumbai/
+2026-04-13 10:50:23,460 - INFO - Result: Global School Leaders' Consortium's Post - LinkedIn | https://www.linkedin.com/posts/global-school-leaders-consortium_meet-mr-rajiv-kohli-principal-vijaybhoomi-activity-7318138648590225410-pxLg
+2026-04-13 10:50:23,460 - INFO - Checking: Stephen Willoughby - Head of School (Principal) | LinkedIn | Score: 10
+2026-04-13 10:50:23,460 - INFO - Checking: Rajiv Kohli - Vijaybhoomi Singapore International School | LinkedIn | Score: 5
+2026-04-13 10:50:23,460 - INFO - Checking: Stephen Willoughby's Post - LinkedIn | Score: 3
+2026-04-13 10:50:23,460 - INFO - Checking: Singapore International School, Mumbai(SIS) - LinkedIn | Score: 0
+2026-04-13 10:50:23,460 - INFO - Checking: Global School Leaders' Consortium's Post - LinkedIn | Score: 3
+2026-04-13 10:50:23,460 - INFO - Found: Stephen Willoughby | Principal | https://in.linkedin.com/in/stephen-willoughby-20728a21
+2026-04-13 10:52:31,180 - INFO - Starting scraper....
+2026-04-13 10:52:31,180 - INFO - Using API Key: 3f20****ea17
+2026-04-13 10:52:31,186 - INFO - 
+Processing: Bombay Scottish School Powai
+2026-04-13 10:52:31,186 - INFO - Searching: Bombay Scottish School Powai principal linkedin
+2026-04-13 10:52:33,521 - INFO - Result: Jane Kotian - BOMBAY SCOTTISH SCHOOL, POWAI - LinkedIn | https://in.linkedin.com/in/jane-kotian-b4a1a11a0
+2026-04-13 10:52:33,522 - INFO - Result: Jane Kotian - Bombay Scottish School, Powai - LinkedIn | https://in.linkedin.com/in/jane-kotian-b67665307
+2026-04-13 10:52:33,522 - INFO - Result: Bombay Scottish School Employees, Location, Alumni - LinkedIn | https://in.linkedin.com/school/bombay-scottish-school/
+2026-04-13 10:52:33,522 - INFO - Result: Gopi Gandhi - markdavid #bombayscottish - LinkedIn | https://www.linkedin.com/posts/gopi-gandhi-46314a21_markdavid-bombayscottish-activity-6775957001248874496-NX5c
+2026-04-13 10:52:33,523 - INFO - Result: Sunita George - Principal at Bombay Scottish School- Mahim | https://in.linkedin.com/in/sunita-george-a9b87451
+2026-04-13 10:52:33,523 - INFO - Checking: Jane Kotian - BOMBAY SCOTTISH SCHOOL, POWAI - LinkedIn | Score: 8
+2026-04-13 10:52:33,523 - INFO - Checking: Jane Kotian - Bombay Scottish School, Powai - LinkedIn | Score: 5
+2026-04-13 10:52:33,524 - INFO - Checking: Bombay Scottish School Employees, Location, Alumni - LinkedIn | Score: 5
+2026-04-13 10:52:33,524 - INFO - Checking: Gopi Gandhi - markdavid #bombayscottish - LinkedIn | Score: 3
+2026-04-13 10:52:33,524 - INFO - Checking: Sunita George - Principal at Bombay Scottish School- Mahim | Score: 11
+2026-04-13 10:52:33,526 - INFO - Found: Sunita George | Principal | https://in.linkedin.com/in/sunita-george-a9b87451
+2026-04-13 10:52:33,527 - INFO - 
+Processing: Jamnabai Narsee School
+2026-04-13 10:52:33,527 - INFO - Searching: Jamnabai Narsee School principal linkedin
+2026-04-13 10:52:36,074 - INFO - Result: Sonali Gandhi - Narsee Monjee Educational Trust's - LinkedIn | https://in.linkedin.com/in/sonali-gandhi-6514bb148
+2026-04-13 10:52:36,074 - INFO - Result: Josephine (Jessie) Vas - Advisor School Education - LinkedIn | https://in.linkedin.com/in/josephine-jessie-vas-b9805521
+2026-04-13 10:52:36,074 - INFO - Result: Ms. Josephine Vas | Sujay Jairaj | 112 comments - LinkedIn | https://www.linkedin.com/posts/sujayjairaj_ms-josephine-vas-better-known-as-ms-jessie-activity-6887355925808631808-tRFL
+2026-04-13 10:52:36,074 - INFO - Result: Anupama Singh - Jamnabai Narsee School - LinkedIn | https://in.linkedin.com/in/anupama-singh-38a3451a7
+2026-04-13 10:52:36,074 - INFO - Result: Sheetal Jain - Vice Principal at Narsee Monjee Educational Trust's | https://in.linkedin.com/in/sheetal-jain-482317392
+2026-04-13 10:52:36,074 - INFO - Checking: Sonali Gandhi - Narsee Monjee Educational Trust's - LinkedIn | Score: 8
+2026-04-13 10:52:36,074 - INFO - Checking: Josephine (Jessie) Vas - Advisor School Education - LinkedIn | Score: 11
+2026-04-13 10:52:36,074 - INFO - Checking: Ms. Josephine Vas | Sujay Jairaj | 112 comments - LinkedIn | Score: 3
+2026-04-13 10:52:36,074 - INFO - Checking: Anupama Singh - Jamnabai Narsee School - LinkedIn | Score: 8
+2026-04-13 10:52:36,074 - INFO - Checking: Sheetal Jain - Vice Principal at Narsee Monjee Educational Trust's | Score: 11
+2026-04-13 10:52:36,074 - INFO - Found: Josephine (Jessie) Vas | Principal | https://in.linkedin.com/in/josephine-jessie-vas-b9805521
+2026-04-13 10:52:36,074 - INFO - 
+Processing: Ecole Mondiale World School
+2026-04-13 10:52:36,074 - INFO - Searching: Ecole Mondiale World School principal linkedin
+2026-04-13 10:52:38,223 - INFO - Result: Jo Williams - Principal at Ecole Mondiale World School | LinkedIn | https://in.linkedin.com/in/jo-williams-4104b852
+2026-04-13 10:52:38,223 - INFO - Result: EMWS Principal - École Mondiale World School - LinkedIn | https://in.linkedin.com/in/emws-principal-849965317
+2026-04-13 10:52:38,223 - INFO - Result: École Mondiale World School | LinkedIn | https://in.linkedin.com/company/ecolemondiale
+2026-04-13 10:52:38,223 - INFO - Result: Dr. Alka Goel's Post - LinkedIn | https://www.linkedin.com/posts/dr-alka-goel-907b5a137_some-places-dont-just-shape-your-career-activity-7336252449067847680-8EeZ
+2026-04-13 10:52:38,223 - INFO - Result: École Mondiale World School | 24 comments - LinkedIn | https://www.linkedin.com/posts/ecolemondiale_ecolemondialeworldschool-ecolites-ecolecommunitystories-activity-7319990037234761728-M-w4
+2026-04-13 10:52:38,223 - INFO - Checking: Jo Williams - Principal at Ecole Mondiale World School | LinkedIn | Score: 11
+2026-04-13 10:52:38,223 - INFO - Checking: EMWS Principal - École Mondiale World School - LinkedIn | Score: 8
+2026-04-13 10:52:38,223 - INFO - Checking: École Mondiale World School | LinkedIn | Score: 0
+2026-04-13 10:52:38,223 - INFO - Checking: Dr. Alka Goel's Post - LinkedIn | Score: 2
+2026-04-13 10:52:38,223 - INFO - Checking: École Mondiale World School | 24 comments - LinkedIn | Score: 3
+2026-04-13 10:52:38,223 - INFO - Found: Jo Williams | Principal | https://in.linkedin.com/in/jo-williams-4104b852
+2026-04-13 10:52:38,223 - INFO - 
+Processing: Oberoi International School
+2026-04-13 10:52:38,223 - INFO - Searching: Oberoi International School principal linkedin
+2026-04-13 10:52:40,267 - INFO - Result: Manjula Shenoi - Oberoi International School - LinkedIn | https://in.linkedin.com/in/manjula-shenoi-5b1b8423
+2026-04-13 10:52:40,267 - INFO - Result: Paul Ducharme, Ed.D - Oberoi International School | LinkedIn | https://in.linkedin.com/in/paul-ducharme-ed-d-b0ab7a354
+2026-04-13 10:52:40,267 - INFO - Result: Paula Baxter - Head of Primary - LinkedIn | https://in.linkedin.com/in/paula-baxter-3584515b
+2026-04-13 10:52:40,267 - INFO - Result: Manjula Shenoi's Post - LinkedIn | https://www.linkedin.com/posts/manjula-shenoi-5b1b8423_as-i-step-out-of-my-first-incredible-academic-activity-7336737124689334273-V7dH
+2026-04-13 10:52:40,267 - INFO - Result: Peter Murphy - Oberoi International School | LinkedIn | https://in.linkedin.com/in/peter-murphy-06782339
+2026-04-13 10:52:40,267 - INFO - Checking: Manjula Shenoi - Oberoi International School - LinkedIn | Score: 11
+2026-04-13 10:52:40,267 - INFO - Checking: Paul Ducharme, Ed.D - Oberoi International School | LinkedIn | Score: 8
+2026-04-13 10:52:40,267 - INFO - Checking: Paula Baxter - Head of Primary - LinkedIn | Score: 10
+2026-04-13 10:52:40,267 - INFO - Checking: Manjula Shenoi's Post - LinkedIn | Score: 3
+2026-04-13 10:52:40,267 - INFO - Checking: Peter Murphy - Oberoi International School | LinkedIn | Score: 8
+2026-04-13 10:52:40,267 - INFO - Found: Manjula Shenoi | Principal | https://in.linkedin.com/in/manjula-shenoi-5b1b8423
+2026-04-13 10:52:40,267 - INFO - 
+Processing: Aditya Birla World Academy
+2026-04-13 10:52:40,267 - INFO - Searching: Aditya Birla World Academy principal linkedin
+2026-04-13 10:52:42,418 - INFO - Result: Shalini John - Aditya Birla World Academy | LinkedIn | https://in.linkedin.com/in/shalini-john-43935053
+2026-04-13 10:52:42,418 - INFO - Result: Radhika Sinha - Principal at Aditya Birla World Academy | LinkedIn | https://in.linkedin.com/in/radhika-sinha-3796a045
+2026-04-13 10:52:42,418 - INFO - Result: Shalini John - Aditya Birla World Academy - LinkedIn | https://www.linkedin.com/posts/shalini-john-43935053_today-marks-13-years-at-aditya-birla-world-activity-7396925358194872320-Aajj
+2026-04-13 10:52:42,418 - INFO - Result: Shalini John | 15 comments - LinkedIn | https://www.linkedin.com/posts/shalini-john-43935053_adityabirlaworldacademy-excellenceineducation-activity-7277880919456182272-wn8K
+2026-04-13 10:52:42,425 - INFO - Result: Shalini John's Post - LinkedIn | https://www.linkedin.com/posts/shalini-john-43935053_proudmoment-teamabwa-educationalexcellence-activity-7251160243399802881-MRpC
+2026-04-13 10:52:42,425 - INFO - Checking: Shalini John - Aditya Birla World Academy | LinkedIn | Score: 8
+2026-04-13 10:52:42,425 - INFO - Checking: Radhika Sinha - Principal at Aditya Birla World Academy | LinkedIn | Score: 11
+2026-04-13 10:52:42,425 - INFO - Checking: Shalini John - Aditya Birla World Academy - LinkedIn | Score: 6
+2026-04-13 10:52:42,427 - INFO - Checking: Shalini John | 15 comments - LinkedIn | Score: 6
+2026-04-13 10:52:42,427 - INFO - Checking: Shalini John's Post - LinkedIn | Score: 6
+2026-04-13 10:52:42,427 - INFO - Found: Radhika Sinha | Principal | https://in.linkedin.com/in/radhika-sinha-3796a045
+2026-04-13 10:52:42,427 - INFO - 
+Processing: Singapore International School Mumbai
+2026-04-13 10:52:42,428 - INFO - Searching: Singapore International School Mumbai principal linkedin
+2026-04-13 10:52:44,683 - INFO - Result: Stephen Willoughby - Head of School (Principal) | LinkedIn | https://in.linkedin.com/in/stephen-willoughby-20728a21
+2026-04-13 10:52:44,684 - INFO - Result: Rajiv Kohli - Vijaybhoomi Singapore International School | LinkedIn | https://in.linkedin.com/in/rajiv-kohli-0482004
+2026-04-13 10:52:44,684 - INFO - Result: Stephen Willoughby's Post - LinkedIn | https://www.linkedin.com/posts/stephen-willoughby-20728a21_singaporeinternationalschool-education-activity-7365585601703641088-lLyk
+2026-04-13 10:52:44,685 - INFO - Result: Singapore International School, Mumbai(SIS) - LinkedIn | https://in.linkedin.com/school/singaporeinternationalschoolmumbai/
+2026-04-13 10:52:44,685 - INFO - Result: Shashi Secretary.Principal - Singapore International School - LinkedIn | https://in.linkedin.com/in/shashi-secretary-principal-6b391559
+2026-04-13 10:52:44,685 - INFO - Checking: Stephen Willoughby - Head of School (Principal) | LinkedIn | Score: 10
+2026-04-13 10:52:44,686 - INFO - Checking: Rajiv Kohli - Vijaybhoomi Singapore International School | LinkedIn | Score: 5
+2026-04-13 10:52:44,686 - INFO - Checking: Stephen Willoughby's Post - LinkedIn | Score: 3
+2026-04-13 10:52:44,686 - INFO - Checking: Singapore International School, Mumbai(SIS) - LinkedIn | Score: 0
+2026-04-13 10:52:44,686 - INFO - Checking: Shashi Secretary.Principal - Singapore International School - LinkedIn | Score: 8
+2026-04-13 10:52:44,686 - INFO - Found: Stephen Willoughby | Principal | https://in.linkedin.com/in/stephen-willoughby-20728a21
+2026-04-13 10:52:44,698 - INFO - Created new Linkedin_id_output.csv
