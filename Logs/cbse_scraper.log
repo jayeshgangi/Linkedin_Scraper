@@ -1,0 +1,862 @@
+2026-05-21 14:23:19,061 | INFO | Starting REGION WISE scrape
+2026-05-21 14:23:22,095 | INFO | Clicked Region Wise radio
+2026-05-21 14:23:56,719 | INFO | Selected region: Bhopal
+2026-05-21 14:23:58,956 | INFO | Search clicked successfully
+2026-05-21 14:24:03,958 | INFO | Setting entries per page to 100
+2026-05-21 14:24:07,044 | INFO | Page 1
+2026-05-21 14:24:10,764 | INFO | Total rows so far: 100
+2026-05-21 14:24:13,820 | INFO | Page 2
+2026-05-21 14:24:17,671 | INFO | Total rows so far: 200
+2026-05-21 14:24:20,724 | INFO | Page 3
+2026-05-21 14:24:24,445 | INFO | Total rows so far: 300
+2026-05-21 14:24:27,499 | INFO | Page 4
+2026-05-21 14:24:31,237 | INFO | Total rows so far: 400
+2026-05-21 14:24:34,290 | INFO | Page 5
+2026-05-21 14:24:38,401 | INFO | Total rows so far: 500
+2026-05-21 14:24:41,458 | INFO | Page 6
+2026-05-21 14:24:45,749 | INFO | Total rows so far: 600
+2026-05-21 14:24:48,806 | INFO | Page 7
+2026-05-21 14:24:52,914 | INFO | Total rows so far: 700
+2026-05-21 14:24:55,972 | INFO | Page 8
+2026-05-21 14:24:59,999 | INFO | Total rows so far: 800
+2026-05-21 14:25:03,060 | INFO | Page 9
+2026-05-21 14:25:07,191 | INFO | Total rows so far: 900
+2026-05-21 14:25:10,258 | INFO | Page 10
+2026-05-21 14:25:14,392 | INFO | Total rows so far: 1000
+2026-05-21 14:25:17,449 | INFO | Page 11
+2026-05-21 14:25:21,494 | INFO | Total rows so far: 1100
+2026-05-21 14:25:24,556 | INFO | Page 12
+2026-05-21 14:25:28,792 | INFO | Total rows so far: 1200
+2026-05-21 14:25:31,848 | INFO | Page 13
+2026-05-21 14:25:35,883 | INFO | Total rows so far: 1300
+2026-05-21 14:25:38,940 | INFO | Page 14
+2026-05-21 14:25:43,093 | INFO | Total rows so far: 1400
+2026-05-21 14:25:46,154 | INFO | Page 15
+2026-05-21 14:25:50,517 | INFO | Total rows so far: 1500
+2026-05-21 14:25:53,575 | INFO | Page 16
+2026-05-21 14:25:57,656 | INFO | Total rows so far: 1600
+2026-05-21 14:26:00,713 | INFO | Page 17
+2026-05-21 14:26:04,800 | INFO | Total rows so far: 1700
+2026-05-21 14:26:07,857 | INFO | Page 18
+2026-05-21 14:26:09,843 | INFO | Total rows so far: 1751
+2026-05-21 14:26:09,851 | INFO | Last page reached
+2026-05-21 14:26:09,876 | INFO | Saved 1751 rows
+2026-05-21 14:26:09,876 | INFO | Saved file at: C:\Users\addys\OneDrive\Desktop\Sports\Linkedin\data\Cbse_scraper\output\cbse_schools_data.csv
+2026-05-21 14:29:24,559 | INFO | Starting REGION WISE scrape
+2026-05-21 14:29:27,592 | INFO | Clicked Region Wise radio
+2026-05-21 14:29:36,251 | INFO | Selected region: Noida
+2026-05-21 14:29:38,414 | INFO | Search clicked successfully
+2026-05-21 14:29:43,416 | INFO | Setting entries per page to 100
+2026-05-21 14:29:46,496 | INFO | Page 1
+2026-05-21 14:29:50,354 | INFO | Total rows so far: 100
+2026-05-21 14:29:53,403 | INFO | Page 2
+2026-05-21 14:29:57,116 | INFO | Total rows so far: 200
+2026-05-21 14:30:00,166 | INFO | Page 3
+2026-05-21 14:30:03,880 | INFO | Total rows so far: 300
+2026-05-21 14:30:06,925 | INFO | Page 4
+2026-05-21 14:30:10,756 | INFO | Total rows so far: 400
+2026-05-21 14:30:13,824 | INFO | Page 5
+2026-05-21 14:30:17,558 | INFO | Total rows so far: 500
+2026-05-21 14:30:20,602 | INFO | Page 6
+2026-05-21 14:30:24,315 | INFO | Total rows so far: 600
+2026-05-21 14:30:27,361 | INFO | Page 7
+2026-05-21 14:30:31,143 | INFO | Total rows so far: 700
+2026-05-21 14:30:34,196 | INFO | Page 8
+2026-05-21 14:30:37,976 | INFO | Total rows so far: 800
+2026-05-21 14:30:41,028 | INFO | Page 9
+2026-05-21 14:30:44,779 | INFO | Total rows so far: 900
+2026-05-21 14:30:47,826 | INFO | Page 10
+2026-05-21 14:30:51,638 | INFO | Total rows so far: 1000
+2026-05-21 14:30:54,691 | INFO | Page 11
+2026-05-21 14:30:58,461 | INFO | Total rows so far: 1100
+2026-05-21 14:31:01,522 | INFO | Page 12
+2026-05-21 14:31:05,328 | INFO | Total rows so far: 1200
+2026-05-21 14:31:08,382 | INFO | Page 13
+2026-05-21 14:31:12,181 | INFO | Total rows so far: 1300
+2026-05-21 14:31:15,233 | INFO | Page 14
+2026-05-21 14:31:19,194 | INFO | Total rows so far: 1400
+2026-05-21 14:31:22,252 | INFO | Page 15
+2026-05-21 14:31:26,043 | INFO | Total rows so far: 1500
+2026-05-21 14:31:29,087 | INFO | Page 16
+2026-05-21 14:31:32,921 | INFO | Total rows so far: 1600
+2026-05-21 14:31:35,956 | INFO | Page 17
+2026-05-21 14:31:36,959 | INFO | Total rows so far: 1626
+2026-05-21 14:31:36,967 | INFO | Last page reached
+2026-05-21 14:31:36,987 | INFO | Saved 1626 rows
+2026-05-21 14:31:36,988 | INFO | Saved file at: C:\Users\addys\OneDrive\Desktop\Sports\Linkedin\data\Cbse_scraper\output\cbse_schools_data.csv
+2026-05-21 14:33:42,424 | INFO | Starting REGION WISE scrape
+2026-05-21 14:33:45,453 | INFO | Clicked Region Wise radio
+2026-05-21 14:33:52,760 | INFO | Selected region: PUNE
+2026-05-21 14:33:54,941 | INFO | Search clicked successfully
+2026-05-21 14:33:59,942 | INFO | Setting entries per page to 100
+2026-05-21 14:34:03,025 | INFO | Page 1
+2026-05-21 14:34:06,945 | INFO | Total rows so far: 100
+2026-05-21 14:34:09,999 | INFO | Page 2
+2026-05-21 14:34:13,855 | INFO | Total rows so far: 200
+2026-05-21 14:34:16,905 | INFO | Page 3
+2026-05-21 14:34:20,743 | INFO | Total rows so far: 300
+2026-05-21 14:34:23,792 | INFO | Page 4
+2026-05-21 14:34:27,614 | INFO | Total rows so far: 400
+2026-05-21 14:34:30,664 | INFO | Page 5
+2026-05-21 14:34:34,596 | INFO | Total rows so far: 500
+2026-05-21 14:34:37,645 | INFO | Page 6
+2026-05-21 14:34:41,478 | INFO | Total rows so far: 600
+2026-05-21 14:34:44,531 | INFO | Page 7
+2026-05-21 14:34:48,359 | INFO | Total rows so far: 700
+2026-05-21 14:34:51,417 | INFO | Page 8
+2026-05-21 14:34:55,275 | INFO | Total rows so far: 800
+2026-05-21 14:34:58,323 | INFO | Page 9
+2026-05-21 14:35:02,181 | INFO | Total rows so far: 900
+2026-05-21 14:35:05,230 | INFO | Page 10
+2026-05-21 14:35:09,089 | INFO | Total rows so far: 1000
+2026-05-21 14:35:12,136 | INFO | Page 11
+2026-05-21 14:35:16,017 | INFO | Total rows so far: 1100
+2026-05-21 14:35:19,068 | INFO | Page 12
+2026-05-21 14:35:22,872 | INFO | Total rows so far: 1200
+2026-05-21 14:35:25,920 | INFO | Page 13
+2026-05-21 14:35:29,709 | INFO | Total rows so far: 1300
+2026-05-21 14:35:32,764 | INFO | Page 14
+2026-05-21 14:35:36,540 | INFO | Total rows so far: 1400
+2026-05-21 14:35:39,592 | INFO | Page 15
+2026-05-21 14:35:43,533 | INFO | Total rows so far: 1500
+2026-05-21 14:35:46,581 | INFO | Page 16
+2026-05-21 14:35:50,385 | INFO | Total rows so far: 1600
+2026-05-21 14:35:53,435 | INFO | Page 17
+2026-05-21 14:35:57,229 | INFO | Total rows so far: 1700
+2026-05-21 14:36:00,281 | INFO | Page 18
+2026-05-21 14:36:04,099 | INFO | Total rows so far: 1800
+2026-05-21 14:36:07,134 | INFO | Page 19
+2026-05-21 14:36:07,946 | INFO | Total rows so far: 1821
+2026-05-21 14:36:07,954 | INFO | Last page reached
+2026-05-21 14:36:07,974 | INFO | Saved 1821 rows
+2026-05-21 14:36:07,974 | INFO | Saved file at: C:\Users\addys\OneDrive\Desktop\Sports\Linkedin\data\Cbse_scraper\output\cbse_schools_data.csv
+2026-05-21 14:39:58,008 | INFO | Starting REGION WISE scrape
+2026-05-21 14:40:01,038 | INFO | Clicked Region Wise radio
+2026-05-21 14:40:08,436 | INFO | Selected region: PANCHKULA
+2026-05-21 14:40:10,612 | INFO | Search clicked successfully
+2026-05-21 14:40:15,618 | INFO | Setting entries per page to 100
+2026-05-21 14:40:18,702 | INFO | Page 1
+2026-05-21 14:40:22,606 | INFO | Total rows so far: 100
+2026-05-21 14:40:25,658 | INFO | Page 2
+2026-05-21 14:40:29,406 | INFO | Total rows so far: 200
+2026-05-21 14:40:32,454 | INFO | Page 3
+2026-05-21 14:40:36,260 | INFO | Total rows so far: 300
+2026-05-21 14:40:39,327 | INFO | Page 4
+2026-05-21 14:40:43,083 | INFO | Total rows so far: 400
+2026-05-21 14:40:46,129 | INFO | Page 5
+2026-05-21 14:40:49,881 | INFO | Total rows so far: 500
+2026-05-21 14:40:52,930 | INFO | Page 6
+2026-05-21 14:40:56,687 | INFO | Total rows so far: 600
+2026-05-21 14:40:59,735 | INFO | Page 7
+2026-05-21 14:41:03,528 | INFO | Total rows so far: 700
+2026-05-21 14:41:06,576 | INFO | Page 8
+2026-05-21 14:41:10,385 | INFO | Total rows so far: 800
+2026-05-21 14:41:13,433 | INFO | Page 9
+2026-05-21 14:41:17,229 | INFO | Total rows so far: 900
+2026-05-21 14:41:20,274 | INFO | Page 10
+2026-05-21 14:41:24,062 | INFO | Total rows so far: 1000
+2026-05-21 14:41:27,109 | INFO | Page 11
+2026-05-21 14:41:30,841 | INFO | Total rows so far: 1100
+2026-05-21 14:41:33,892 | INFO | Page 12
+2026-05-21 14:41:37,688 | INFO | Total rows so far: 1200
+2026-05-21 14:41:40,738 | INFO | Page 13
+2026-05-21 14:41:44,557 | INFO | Total rows so far: 1300
+2026-05-21 14:41:47,606 | INFO | Page 14
+2026-05-21 14:41:51,342 | INFO | Total rows so far: 1400
+2026-05-21 14:41:54,390 | INFO | Page 15
+2026-05-21 14:41:58,194 | INFO | Total rows so far: 1500
+2026-05-21 14:42:01,243 | INFO | Page 16
+2026-05-21 14:42:05,015 | INFO | Total rows so far: 1600
+2026-05-21 14:42:08,052 | INFO | Page 17
+2026-05-21 14:42:09,392 | INFO | Total rows so far: 1635
+2026-05-21 14:42:09,400 | INFO | Last page reached
+2026-05-21 14:42:09,419 | INFO | Saved 1635 rows
+2026-05-21 14:42:09,419 | INFO | Saved file at: C:\Users\addys\OneDrive\Desktop\Sports\Linkedin\data\Cbse_scraper\output\cbse_schools_data.csv
+2026-05-21 15:00:55,642 | INFO | Starting REGION WISE scrape
+2026-05-21 15:00:58,677 | INFO | Clicked Region Wise radio
+2026-05-21 15:01:34,833 | INFO | Selected region: DELHI WEST
+2026-05-21 15:01:37,037 | INFO | Search clicked successfully
+2026-05-21 15:01:42,046 | INFO | Setting entries per page to 100
+2026-05-21 15:01:45,129 | INFO | Page 1
+2026-05-21 15:01:49,448 | INFO | Total rows so far: 100
+2026-05-21 15:01:52,495 | INFO | Page 2
+2026-05-21 15:01:57,276 | INFO | Total rows so far: 200
+2026-05-21 15:02:00,342 | INFO | Page 3
+2026-05-21 15:02:05,166 | INFO | Total rows so far: 300
+2026-05-21 15:02:08,211 | INFO | Page 4
+2026-05-21 15:02:12,130 | INFO | Total rows so far: 400
+2026-05-21 15:02:15,173 | INFO | Page 5
+2026-05-21 15:02:19,231 | INFO | Total rows so far: 500
+2026-05-21 15:02:22,283 | INFO | Page 6
+2026-05-21 15:02:26,469 | INFO | Total rows so far: 600
+2026-05-21 15:02:29,528 | INFO | Page 7
+2026-05-21 15:02:33,799 | INFO | Total rows so far: 700
+2026-05-21 15:02:36,847 | INFO | Page 8
+2026-05-21 15:02:40,730 | INFO | Total rows so far: 800
+2026-05-21 15:02:43,768 | INFO | Page 9
+2026-05-21 15:02:52,952 | INFO | Total rows so far: 900
+2026-05-21 15:02:56,056 | INFO | Page 10
+2026-05-21 15:03:05,146 | INFO | Total rows so far: 1000
+2026-05-21 15:03:08,253 | INFO | Page 11
+2026-05-21 15:03:14,549 | INFO | Total rows so far: 1065
+2026-05-21 15:03:14,573 | INFO | Last page reached
+2026-05-21 15:03:14,616 | INFO | Saved 1065 rows
+2026-05-21 15:03:14,616 | INFO | Saved file at: C:\Users\addys\OneDrive\Desktop\Sports\Linkedin\data\Cbse_scraper\output\cbse_schools_data_{region_name}.csv
+2026-05-21 18:02:32,145 | INFO | Starting REGION WISE scrape
+2026-05-21 18:02:35,176 | INFO | Clicked Region Wise radio
+2026-05-21 18:02:43,751 | INFO | Selected region: Vijaywada
+2026-05-21 18:02:45,918 | INFO | Search clicked successfully
+2026-05-21 18:02:50,919 | INFO | Setting entries per page to 100
+2026-05-21 18:02:54,000 | INFO | Page 1
+2026-05-21 18:02:57,864 | INFO | Total rows so far: 100
+2026-05-21 18:03:00,927 | INFO | Page 2
+2026-05-21 18:03:04,751 | INFO | Total rows so far: 200
+2026-05-21 18:03:07,817 | INFO | Page 3
+2026-05-21 18:03:11,498 | INFO | Total rows so far: 300
+2026-05-21 18:03:14,558 | INFO | Page 4
+2026-05-21 18:03:18,468 | INFO | Total rows so far: 400
+2026-05-21 18:03:21,533 | INFO | Page 5
+2026-05-21 18:03:25,480 | INFO | Total rows so far: 500
+2026-05-21 18:03:28,544 | INFO | Page 6
+2026-05-21 18:03:32,481 | INFO | Total rows so far: 600
+2026-05-21 18:03:35,545 | INFO | Page 7
+2026-05-21 18:03:39,609 | INFO | Total rows so far: 700
+2026-05-21 18:03:42,671 | INFO | Page 8
+2026-05-21 18:03:46,702 | INFO | Total rows so far: 800
+2026-05-21 18:03:49,767 | INFO | Page 9
+2026-05-21 18:03:53,777 | INFO | Total rows so far: 900
+2026-05-21 18:03:56,839 | INFO | Page 10
+2026-05-21 18:04:00,753 | INFO | Total rows so far: 1000
+2026-05-21 18:04:03,836 | INFO | Page 11
+2026-05-21 18:04:07,796 | INFO | Total rows so far: 1100
+2026-05-21 18:04:10,872 | INFO | Page 12
+2026-05-21 18:04:14,802 | INFO | Total rows so far: 1200
+2026-05-21 18:04:17,881 | INFO | Page 13
+2026-05-21 18:04:21,795 | INFO | Total rows so far: 1300
+2026-05-21 18:04:24,862 | INFO | Page 14
+2026-05-21 18:04:28,832 | INFO | Total rows so far: 1400
+2026-05-21 18:04:31,896 | INFO | Page 15
+2026-05-21 18:04:35,779 | INFO | Total rows so far: 1500
+2026-05-21 18:04:38,844 | INFO | Page 16
+2026-05-21 18:04:42,784 | INFO | Total rows so far: 1600
+2026-05-21 18:04:45,852 | INFO | Page 17
+2026-05-21 18:04:49,806 | INFO | Total rows so far: 1700
+2026-05-21 18:04:52,871 | INFO | Page 18
+2026-05-21 18:04:56,904 | INFO | Total rows so far: 1800
+2026-05-21 18:04:59,968 | INFO | Page 19
+2026-05-21 18:05:03,845 | INFO | Total rows so far: 1900
+2026-05-21 18:05:06,909 | INFO | Page 20
+2026-05-21 18:05:10,889 | INFO | Total rows so far: 2000
+2026-05-21 18:05:13,952 | INFO | Page 21
+2026-05-21 18:05:17,882 | INFO | Total rows so far: 2100
+2026-05-21 18:05:20,945 | INFO | Page 22
+2026-05-21 18:05:24,821 | INFO | Total rows so far: 2200
+2026-05-21 18:05:27,878 | INFO | Page 23
+2026-05-21 18:05:30,897 | INFO | Total rows so far: 2275
+2026-05-21 18:05:30,906 | INFO | Last page reached
+2026-05-21 18:05:30,944 | INFO | Saved 2275 rows
+2026-05-21 18:05:30,944 | INFO | Saved file at: C:\Users\addys\OneDrive\Desktop\Sports\Linkedin\data\Cbse_scraper\output\cbse_schools_data_Vijaywada.csv
+2026-05-21 18:06:32,028 | INFO | Starting REGION WISE scrape
+2026-05-21 18:06:35,059 | INFO | Clicked Region Wise radio
+2026-05-21 18:06:59,273 | INFO | Selected region: GURUGRAM
+2026-05-21 18:07:01,423 | INFO | Search clicked successfully
+2026-05-21 18:07:06,424 | INFO | Setting entries per page to 100
+2026-05-21 18:07:09,501 | INFO | Page 1
+2026-05-21 18:07:13,099 | INFO | Total rows so far: 100
+2026-05-21 18:07:16,147 | INFO | Page 2
+2026-05-21 18:07:20,195 | INFO | Total rows so far: 200
+2026-05-21 18:07:23,270 | INFO | Page 3
+2026-05-21 18:07:27,149 | INFO | Total rows so far: 300
+2026-05-21 18:07:30,212 | INFO | Page 4
+2026-05-21 18:07:33,990 | INFO | Total rows so far: 400
+2026-05-21 18:07:37,037 | INFO | Page 5
+2026-05-21 18:07:40,833 | INFO | Total rows so far: 500
+2026-05-21 18:07:43,881 | INFO | Page 6
+2026-05-21 18:07:47,683 | INFO | Total rows so far: 600
+2026-05-21 18:07:50,730 | INFO | Page 7
+2026-05-21 18:07:54,566 | INFO | Total rows so far: 700
+2026-05-21 18:07:57,614 | INFO | Page 8
+2026-05-21 18:08:01,543 | INFO | Total rows so far: 800
+2026-05-21 18:08:04,600 | INFO | Page 9
+2026-05-21 18:08:08,620 | INFO | Total rows so far: 900
+2026-05-21 18:08:11,672 | INFO | Page 10
+2026-05-21 18:08:15,674 | INFO | Total rows so far: 1000
+2026-05-21 18:08:18,730 | INFO | Page 11
+2026-05-21 18:08:22,585 | INFO | Total rows so far: 1100
+2026-05-21 18:08:25,647 | INFO | Page 12
+2026-05-21 18:08:29,743 | INFO | Total rows so far: 1200
+2026-05-21 18:08:32,791 | INFO | Page 13
+2026-05-21 18:08:36,716 | INFO | Total rows so far: 1300
+2026-05-21 18:08:39,765 | INFO | Page 14
+2026-05-21 18:08:43,586 | INFO | Total rows so far: 1400
+2026-05-21 18:08:46,641 | INFO | Page 15
+2026-05-21 18:08:50,580 | INFO | Total rows so far: 1499
+2026-05-21 18:08:50,588 | INFO | Last page reached
+2026-05-21 18:08:50,604 | INFO | Saved 1499 rows
+2026-05-21 18:08:50,604 | INFO | Saved file at: C:\Users\addys\OneDrive\Desktop\Sports\Linkedin\data\Cbse_scraper\output\cbse_schools_data_GURUGRAM.csv
+2026-05-21 18:09:15,282 | INFO | Starting REGION WISE scrape
+2026-05-21 18:09:18,316 | INFO | Clicked Region Wise radio
+2026-05-21 18:09:27,871 | INFO | Selected region: LUCKNOW
+2026-05-21 18:09:29,987 | INFO | Search clicked successfully
+2026-05-21 18:09:34,987 | INFO | Setting entries per page to 100
+2026-05-21 18:09:38,100 | INFO | Page 1
+2026-05-21 18:09:42,065 | INFO | Total rows so far: 100
+2026-05-21 18:09:45,123 | INFO | Page 2
+2026-05-21 18:09:48,929 | INFO | Total rows so far: 200
+2026-05-21 18:09:51,972 | INFO | Page 3
+2026-05-21 18:09:55,850 | INFO | Total rows so far: 300
+2026-05-21 18:09:58,897 | INFO | Page 4
+2026-05-21 18:10:02,671 | INFO | Total rows so far: 400
+2026-05-21 18:10:05,723 | INFO | Page 5
+2026-05-21 18:10:09,490 | INFO | Total rows so far: 500
+2026-05-21 18:10:12,550 | INFO | Page 6
+2026-05-21 18:10:16,555 | INFO | Total rows so far: 600
+2026-05-21 18:10:19,608 | INFO | Page 7
+2026-05-21 18:10:23,620 | INFO | Total rows so far: 700
+2026-05-21 18:10:26,664 | INFO | Page 8
+2026-05-21 18:10:30,548 | INFO | Total rows so far: 800
+2026-05-21 18:10:33,593 | INFO | Page 9
+2026-05-21 18:10:37,434 | INFO | Total rows so far: 900
+2026-05-21 18:10:40,476 | INFO | Page 10
+2026-05-21 18:10:44,436 | INFO | Total rows so far: 1000
+2026-05-21 18:10:47,480 | INFO | Page 11
+2026-05-21 18:10:51,717 | INFO | Total rows so far: 1100
+2026-05-21 18:10:54,761 | INFO | Page 12
+2026-05-21 18:10:58,567 | INFO | Total rows so far: 1200
+2026-05-21 18:11:01,607 | INFO | Page 13
+2026-05-21 18:11:05,003 | INFO | Total rows so far: 1288
+2026-05-21 18:11:05,003 | INFO | Last page reached
+2026-05-21 18:11:05,025 | INFO | Saved 1288 rows
+2026-05-21 18:11:05,025 | INFO | Saved file at: C:\Users\addys\OneDrive\Desktop\Sports\Linkedin\data\Cbse_scraper\output\cbse_schools_data_LUCKNOW.csv
+2026-05-21 18:11:29,418 | INFO | Starting REGION WISE scrape
+2026-05-21 18:11:32,451 | INFO | Clicked Region Wise radio
+2026-05-21 18:11:41,876 | INFO | Selected region: RANCHI
+2026-05-21 18:11:44,002 | INFO | Search clicked successfully
+2026-05-21 18:11:49,003 | INFO | Setting entries per page to 100
+2026-05-21 18:11:52,085 | INFO | Page 1
+2026-05-21 18:11:56,033 | INFO | Total rows so far: 100
+2026-05-21 18:11:59,075 | INFO | Page 2
+2026-05-21 18:12:02,851 | INFO | Total rows so far: 200
+2026-05-21 18:12:05,912 | INFO | Page 3
+2026-05-21 18:12:09,801 | INFO | Total rows so far: 300
+2026-05-21 18:12:12,846 | INFO | Page 4
+2026-05-21 18:12:16,620 | INFO | Total rows so far: 400
+2026-05-21 18:12:19,670 | INFO | Page 5
+2026-05-21 18:12:23,452 | INFO | Total rows so far: 500
+2026-05-21 18:12:26,490 | INFO | Page 6
+2026-05-21 18:12:30,535 | INFO | Total rows so far: 600
+2026-05-21 18:12:33,591 | INFO | Page 7
+2026-05-21 18:12:37,585 | INFO | Total rows so far: 700
+2026-05-21 18:12:40,618 | INFO | Page 8
+2026-05-21 18:12:42,609 | INFO | Total rows so far: 752
+2026-05-21 18:12:42,616 | INFO | Last page reached
+2026-05-21 18:12:42,627 | INFO | Saved 752 rows
+2026-05-21 18:12:42,627 | INFO | Saved file at: C:\Users\addys\OneDrive\Desktop\Sports\Linkedin\data\Cbse_scraper\output\cbse_schools_data_RANCHI.csv
+2026-05-21 18:13:36,944 | INFO | Starting REGION WISE scrape
+2026-05-21 18:13:39,974 | INFO | Clicked Region Wise radio
+2026-05-21 18:15:04,981 | INFO | Selected region: RAIPUR
+2026-05-21 18:15:07,138 | INFO | Search clicked successfully
+2026-05-21 18:15:12,139 | INFO | Setting entries per page to 100
+2026-05-21 18:15:15,230 | INFO | Page 1
+2026-05-21 18:15:19,555 | INFO | Total rows so far: 100
+2026-05-21 18:15:22,602 | INFO | Page 2
+2026-05-21 18:15:26,918 | INFO | Total rows so far: 200
+2026-05-21 18:15:29,959 | INFO | Page 3
+2026-05-21 18:15:33,824 | INFO | Total rows so far: 300
+2026-05-21 18:15:36,862 | INFO | Page 4
+2026-05-21 18:15:40,711 | INFO | Total rows so far: 400
+2026-05-21 18:15:43,750 | INFO | Page 5
+2026-05-21 18:15:47,745 | INFO | Total rows so far: 500
+2026-05-21 18:15:50,783 | INFO | Page 6
+2026-05-21 18:15:54,714 | INFO | Total rows so far: 600
+2026-05-21 18:15:57,747 | INFO | Page 7
+2026-05-21 18:16:00,190 | INFO | Total rows so far: 663
+2026-05-21 18:16:00,207 | INFO | Last page reached
+2026-05-21 18:16:00,219 | INFO | Saved 663 rows
+2026-05-21 18:16:00,219 | INFO | Saved file at: C:\Users\addys\OneDrive\Desktop\Sports\Linkedin\data\Cbse_scraper\output\cbse_schools_data_RAIPUR.csv
+2026-05-21 18:18:57,041 | INFO | Starting REGION WISE scrape
+2026-05-21 18:19:00,071 | INFO | Clicked Region Wise radio
+2026-05-21 18:19:12,559 | INFO | Selected region: AHMEDABAD
+2026-05-21 18:19:14,682 | INFO | Search clicked successfully
+2026-05-21 18:19:19,685 | INFO | Setting entries per page to 100
+2026-05-21 18:19:22,774 | INFO | Page 1
+2026-05-21 18:19:26,702 | INFO | Total rows so far: 100
+2026-05-21 18:19:29,754 | INFO | Page 2
+2026-05-21 18:19:33,675 | INFO | Total rows so far: 200
+2026-05-21 18:19:36,719 | INFO | Page 3
+2026-05-21 18:19:40,619 | INFO | Total rows so far: 300
+2026-05-21 18:19:43,666 | INFO | Page 4
+2026-05-21 18:19:47,562 | INFO | Total rows so far: 400
+2026-05-21 18:19:50,601 | INFO | Page 5
+2026-05-21 18:19:54,529 | INFO | Total rows so far: 500
+2026-05-21 18:19:57,576 | INFO | Page 6
+2026-05-21 18:20:01,453 | INFO | Total rows so far: 600
+2026-05-21 18:20:04,494 | INFO | Page 7
+2026-05-21 18:20:08,330 | INFO | Total rows so far: 700
+2026-05-21 18:20:11,368 | INFO | Page 8
+2026-05-21 18:20:13,770 | INFO | Total rows so far: 759
+2026-05-21 18:20:13,778 | INFO | Last page reached
+2026-05-21 18:20:13,789 | INFO | Saved 759 rows
+2026-05-21 18:20:13,789 | INFO | Saved file at: C:\Users\addys\OneDrive\Desktop\Sports\Linkedin\data\Cbse_scraper\output\cbse_schools_data_AHMEDABAD.csv
+2026-05-21 18:24:52,997 | INFO | Starting REGION WISE scrape
+2026-05-21 18:24:56,027 | INFO | Clicked Region Wise radio
+2026-05-21 18:25:09,554 | INFO | Selected region: Chennai
+2026-05-21 18:25:11,724 | INFO | Search clicked successfully
+2026-05-21 18:25:16,725 | INFO | Setting entries per page to 100
+2026-05-21 18:25:19,810 | INFO | Page 1
+2026-05-21 18:25:23,708 | INFO | Total rows so far: 100
+2026-05-21 18:25:26,788 | INFO | Page 2
+2026-05-21 18:25:30,568 | INFO | Total rows so far: 200
+2026-05-21 18:25:33,635 | INFO | Page 3
+2026-05-21 18:25:37,404 | INFO | Total rows so far: 300
+2026-05-21 18:25:40,459 | INFO | Page 4
+2026-05-21 18:25:44,413 | INFO | Total rows so far: 400
+2026-05-21 18:25:47,467 | INFO | Page 5
+2026-05-21 18:25:51,446 | INFO | Total rows so far: 500
+2026-05-21 18:25:54,502 | INFO | Page 6
+2026-05-21 18:25:58,344 | INFO | Total rows so far: 600
+2026-05-21 18:26:01,414 | INFO | Page 7
+2026-05-21 18:26:05,361 | INFO | Total rows so far: 700
+2026-05-21 18:26:08,418 | INFO | Page 8
+2026-05-21 18:26:12,260 | INFO | Total rows so far: 800
+2026-05-21 18:26:15,325 | INFO | Page 9
+2026-05-21 18:26:19,162 | INFO | Total rows so far: 900
+2026-05-21 18:26:22,245 | INFO | Page 10
+2026-05-21 18:26:26,183 | INFO | Total rows so far: 1000
+2026-05-21 18:26:29,240 | INFO | Page 11
+2026-05-21 18:26:33,094 | INFO | Total rows so far: 1100
+2026-05-21 18:26:36,164 | INFO | Page 12
+2026-05-21 18:26:39,979 | INFO | Total rows so far: 1200
+2026-05-21 18:26:43,035 | INFO | Page 13
+2026-05-21 18:26:46,892 | INFO | Total rows so far: 1300
+2026-05-21 18:26:49,950 | INFO | Page 14
+2026-05-21 18:26:54,005 | INFO | Total rows so far: 1400
+2026-05-21 18:26:57,068 | INFO | Page 15
+2026-05-21 18:27:00,994 | INFO | Total rows so far: 1500
+2026-05-21 18:27:04,048 | INFO | Page 16
+2026-05-21 18:27:07,893 | INFO | Total rows so far: 1600
+2026-05-21 18:27:10,952 | INFO | Page 17
+2026-05-21 18:27:14,978 | INFO | Total rows so far: 1700
+2026-05-21 18:27:18,034 | INFO | Page 18
+2026-05-21 18:27:22,003 | INFO | Total rows so far: 1800
+2026-05-21 18:27:25,078 | INFO | Page 19
+2026-05-21 18:27:28,912 | INFO | Total rows so far: 1900
+2026-05-21 18:27:31,968 | INFO | Page 20
+2026-05-21 18:27:35,911 | INFO | Total rows so far: 2000
+2026-05-21 18:27:38,967 | INFO | Page 21
+2026-05-21 18:27:42,784 | INFO | Total rows so far: 2100
+2026-05-21 18:27:45,829 | INFO | Page 22
+2026-05-21 18:27:47,531 | INFO | Total rows so far: 2143
+2026-05-21 18:27:47,544 | INFO | Last page reached
+2026-05-21 18:27:47,559 | INFO | Saved 2143 rows
+2026-05-21 18:27:47,559 | INFO | Saved file at: C:\Users\addys\OneDrive\Desktop\Sports\Linkedin\data\Cbse_scraper\output\cbse_schools_data_Chennai.csv
+2026-05-21 18:31:57,137 | INFO | Starting REGION WISE scrape
+2026-05-21 18:32:00,167 | INFO | Clicked Region Wise radio
+2026-05-21 18:33:57,154 | INFO | Selected region: Guwahati
+2026-05-21 18:33:59,360 | INFO | Search clicked successfully
+2026-05-21 18:34:04,361 | INFO | Setting entries per page to 100
+2026-05-21 18:34:07,447 | INFO | Page 1
+2026-05-21 18:34:11,918 | INFO | Total rows so far: 100
+2026-05-21 18:34:14,972 | INFO | Page 2
+2026-05-21 18:34:19,225 | INFO | Total rows so far: 200
+2026-05-21 18:34:22,275 | INFO | Page 3
+2026-05-21 18:34:26,101 | INFO | Total rows so far: 300
+2026-05-21 18:34:29,161 | INFO | Page 4
+2026-05-21 18:34:33,186 | INFO | Total rows so far: 400
+2026-05-21 18:34:36,260 | INFO | Page 5
+2026-05-21 18:34:40,251 | INFO | Total rows so far: 500
+2026-05-21 18:34:43,299 | INFO | Page 6
+2026-05-21 18:34:47,178 | INFO | Total rows so far: 600
+2026-05-21 18:34:50,224 | INFO | Page 7
+2026-05-21 18:34:54,382 | INFO | Total rows so far: 700
+2026-05-21 18:34:57,446 | INFO | Page 8
+2026-05-21 18:35:01,420 | INFO | Total rows so far: 800
+2026-05-21 18:35:04,471 | INFO | Page 9
+2026-05-21 18:35:08,331 | INFO | Total rows so far: 900
+2026-05-21 18:35:11,377 | INFO | Page 10
+2026-05-21 18:35:15,232 | INFO | Total rows so far: 1000
+2026-05-21 18:35:18,291 | INFO | Page 11
+2026-05-21 18:35:22,110 | INFO | Total rows so far: 1100
+2026-05-21 18:35:25,156 | INFO | Page 12
+2026-05-21 18:35:28,959 | INFO | Total rows so far: 1200
+2026-05-21 18:35:32,004 | INFO | Page 13
+2026-05-21 18:35:35,770 | INFO | Total rows so far: 1300
+2026-05-21 18:35:38,835 | INFO | Page 14
+2026-05-21 18:35:42,768 | INFO | Total rows so far: 1400
+2026-05-21 18:35:45,797 | INFO | Page 15
+2026-05-21 18:35:46,263 | INFO | Total rows so far: 1411
+2026-05-21 18:35:46,267 | INFO | Last page reached
+2026-05-21 18:35:46,287 | INFO | Saved 1411 rows
+2026-05-21 18:35:46,288 | INFO | Saved file at: C:\Users\addys\OneDrive\Desktop\Sports\Linkedin\data\Cbse_scraper\output\cbse_schools_data_Guwahati.csv
+2026-05-21 18:37:35,420 | INFO | Starting REGION WISE scrape
+2026-05-21 18:37:38,452 | INFO | Clicked Region Wise radio
+2026-05-21 18:37:51,119 | INFO | Selected region: Ajmer
+2026-05-21 18:37:53,273 | INFO | Search clicked successfully
+2026-05-21 18:37:58,274 | INFO | Setting entries per page to 100
+2026-05-21 18:38:01,367 | INFO | Page 1
+2026-05-21 18:38:05,270 | INFO | Total rows so far: 100
+2026-05-21 18:38:08,335 | INFO | Page 2
+2026-05-21 18:38:12,162 | INFO | Total rows so far: 200
+2026-05-21 18:38:15,217 | INFO | Page 3
+2026-05-21 18:38:19,083 | INFO | Total rows so far: 300
+2026-05-21 18:38:22,141 | INFO | Page 4
+2026-05-21 18:38:25,992 | INFO | Total rows so far: 400
+2026-05-21 18:38:29,062 | INFO | Page 5
+2026-05-21 18:38:32,909 | INFO | Total rows so far: 500
+2026-05-21 18:38:35,958 | INFO | Page 6
+2026-05-21 18:38:40,040 | INFO | Total rows so far: 600
+2026-05-21 18:38:43,094 | INFO | Page 7
+2026-05-21 18:38:46,973 | INFO | Total rows so far: 700
+2026-05-21 18:38:50,032 | INFO | Page 8
+2026-05-21 18:38:53,880 | INFO | Total rows so far: 800
+2026-05-21 18:38:56,925 | INFO | Page 9
+2026-05-21 18:39:00,931 | INFO | Total rows so far: 900
+2026-05-21 18:39:03,975 | INFO | Page 10
+2026-05-21 18:39:08,001 | INFO | Total rows so far: 1000
+2026-05-21 18:39:11,045 | INFO | Page 11
+2026-05-21 18:39:14,931 | INFO | Total rows so far: 1100
+2026-05-21 18:39:17,962 | INFO | Page 12
+2026-05-21 18:39:21,918 | INFO | Total rows so far: 1200
+2026-05-21 18:39:24,980 | INFO | Page 13
+2026-05-21 18:39:28,919 | INFO | Total rows so far: 1300
+2026-05-21 18:39:31,964 | INFO | Page 14
+2026-05-21 18:39:35,803 | INFO | Total rows so far: 1400
+2026-05-21 18:39:38,849 | INFO | Page 15
+2026-05-21 18:39:42,816 | INFO | Total rows so far: 1500
+2026-05-21 18:39:45,849 | INFO | Page 16
+2026-05-21 18:39:46,097 | INFO | Total rows so far: 1506
+2026-05-21 18:39:46,103 | INFO | Last page reached
+2026-05-21 18:39:46,117 | INFO | Saved 1506 rows
+2026-05-21 18:39:46,117 | INFO | Saved file at: C:\Users\addys\OneDrive\Desktop\Sports\Linkedin\data\Cbse_scraper\output\cbse_schools_data_Ajmer.csv
+2026-05-21 18:40:04,541 | INFO | Starting REGION WISE scrape
+2026-05-21 18:40:07,571 | INFO | Clicked Region Wise radio
+2026-05-21 18:40:18,198 | INFO | Selected region: chandigarh
+2026-05-21 18:40:20,447 | INFO | Search clicked successfully
+2026-05-21 18:40:25,448 | INFO | Setting entries per page to 100
+2026-05-21 18:40:28,548 | INFO | Page 1
+2026-05-21 18:40:32,605 | INFO | Total rows so far: 100
+2026-05-21 18:40:35,678 | INFO | Page 2
+2026-05-21 18:40:39,624 | INFO | Total rows so far: 200
+2026-05-21 18:40:42,680 | INFO | Page 3
+2026-05-21 18:40:46,529 | INFO | Total rows so far: 300
+2026-05-21 18:40:49,603 | INFO | Page 4
+2026-05-21 18:40:53,456 | INFO | Total rows so far: 400
+2026-05-21 18:40:56,525 | INFO | Page 5
+2026-05-21 18:41:00,397 | INFO | Total rows so far: 500
+2026-05-21 18:41:03,459 | INFO | Page 6
+2026-05-21 18:41:07,373 | INFO | Total rows so far: 600
+2026-05-21 18:41:10,446 | INFO | Page 7
+2026-05-21 18:41:14,440 | INFO | Total rows so far: 700
+2026-05-21 18:41:17,506 | INFO | Page 8
+2026-05-21 18:41:21,459 | INFO | Total rows so far: 800
+2026-05-21 18:41:24,537 | INFO | Page 9
+2026-05-21 18:41:28,342 | INFO | Total rows so far: 900
+2026-05-21 18:41:31,406 | INFO | Page 10
+2026-05-21 18:41:35,375 | INFO | Total rows so far: 1000
+2026-05-21 18:41:38,439 | INFO | Page 11
+2026-05-21 18:41:42,349 | INFO | Total rows so far: 1100
+2026-05-21 18:41:45,424 | INFO | Page 12
+2026-05-21 18:41:49,260 | INFO | Total rows so far: 1200
+2026-05-21 18:41:52,320 | INFO | Page 13
+2026-05-21 18:41:56,248 | INFO | Total rows so far: 1300
+2026-05-21 18:41:59,317 | INFO | Page 14
+2026-05-21 18:42:03,127 | INFO | Total rows so far: 1400
+2026-05-21 18:42:06,181 | INFO | Page 15
+2026-05-21 18:42:09,949 | INFO | Total rows so far: 1500
+2026-05-21 18:42:13,010 | INFO | Page 16
+2026-05-21 18:42:16,972 | INFO | Total rows so far: 1600
+2026-05-21 18:42:20,046 | INFO | Page 17
+2026-05-21 18:42:24,010 | INFO | Total rows so far: 1700
+2026-05-21 18:42:27,076 | INFO | Page 18
+2026-05-21 18:42:30,914 | INFO | Total rows so far: 1800
+2026-05-21 18:42:33,968 | INFO | Page 19
+2026-05-21 18:42:37,805 | INFO | Total rows so far: 1900
+2026-05-21 18:42:40,868 | INFO | Page 20
+2026-05-21 18:42:44,700 | INFO | Total rows so far: 2000
+2026-05-21 18:42:47,766 | INFO | Page 21
+2026-05-21 18:42:51,579 | INFO | Total rows so far: 2100
+2026-05-21 18:42:54,633 | INFO | Page 22
+2026-05-21 18:42:58,441 | INFO | Total rows so far: 2200
+2026-05-21 18:43:01,482 | INFO | Page 23
+2026-05-21 18:43:01,533 | INFO | Total rows so far: 2201
+2026-05-21 18:43:01,549 | INFO | Last page reached
+2026-05-21 18:43:01,566 | INFO | Saved 2201 rows
+2026-05-21 18:43:01,567 | INFO | Saved file at: C:\Users\addys\OneDrive\Desktop\Sports\Linkedin\data\Cbse_scraper\output\cbse_schools_data_chandigarh.csv
+2026-05-21 18:43:23,376 | INFO | Starting REGION WISE scrape
+2026-05-21 18:43:26,407 | INFO | Clicked Region Wise radio
+2026-05-21 18:43:50,678 | INFO | Selected region: Delhi
+2026-05-21 18:43:52,847 | INFO | Search clicked successfully
+2026-05-21 18:43:57,849 | INFO | Setting entries per page to 100
+2026-05-21 18:44:00,929 | INFO | Page 1
+2026-05-21 18:44:04,735 | INFO | Total rows so far: 100
+2026-05-21 18:44:07,783 | INFO | Page 2
+2026-05-21 18:44:11,920 | INFO | Total rows so far: 200
+2026-05-21 18:44:14,964 | INFO | Page 3
+2026-05-21 18:44:18,885 | INFO | Total rows so far: 300
+2026-05-21 18:44:21,928 | INFO | Page 4
+2026-05-21 18:44:25,828 | INFO | Total rows so far: 400
+2026-05-21 18:44:28,880 | INFO | Page 5
+2026-05-21 18:44:32,832 | INFO | Total rows so far: 500
+2026-05-21 18:44:35,879 | INFO | Page 6
+2026-05-21 18:44:39,817 | INFO | Total rows so far: 600
+2026-05-21 18:44:42,863 | INFO | Page 7
+2026-05-21 18:44:46,667 | INFO | Total rows so far: 700
+2026-05-21 18:44:49,724 | INFO | Page 8
+2026-05-21 18:44:53,772 | INFO | Total rows so far: 800
+2026-05-21 18:44:56,821 | INFO | Page 9
+2026-05-21 18:45:01,114 | INFO | Total rows so far: 900
+2026-05-21 18:45:04,170 | INFO | Page 10
+2026-05-21 18:45:08,269 | INFO | Total rows so far: 1000
+2026-05-21 18:45:11,335 | INFO | Page 11
+2026-05-21 18:45:15,568 | INFO | Total rows so far: 1100
+2026-05-21 18:45:18,640 | INFO | Page 12
+2026-05-21 18:45:23,223 | INFO | Total rows so far: 1200
+2026-05-21 18:45:26,307 | INFO | Page 13
+2026-05-21 18:45:30,184 | INFO | Total rows so far: 1300
+2026-05-21 18:45:33,236 | INFO | Page 14
+2026-05-21 18:45:37,291 | INFO | Total rows so far: 1400
+2026-05-21 18:45:40,341 | INFO | Page 15
+2026-05-21 18:45:42,537 | INFO | Total rows so far: 1455
+2026-05-21 18:45:42,545 | INFO | Last page reached
+2026-05-21 18:45:42,561 | INFO | Saved 1455 rows
+2026-05-21 18:45:42,561 | INFO | Saved file at: C:\Users\addys\OneDrive\Desktop\Sports\Linkedin\data\Cbse_scraper\output\cbse_schools_data_Delhi.csv
+2026-05-21 18:46:06,185 | INFO | Starting REGION WISE scrape
+2026-05-21 18:46:09,215 | INFO | Clicked Region Wise radio
+2026-05-21 18:46:23,497 | INFO | Selected region: prayagraj
+2026-05-21 18:46:25,702 | INFO | Search clicked successfully
+2026-05-21 18:46:30,705 | INFO | Setting entries per page to 100
+2026-05-21 18:46:33,784 | INFO | Page 1
+2026-05-21 18:46:37,598 | INFO | Total rows so far: 100
+2026-05-21 18:46:40,647 | INFO | Page 2
+2026-05-21 18:46:44,638 | INFO | Total rows so far: 200
+2026-05-21 18:46:47,699 | INFO | Page 3
+2026-05-21 18:46:51,645 | INFO | Total rows so far: 300
+2026-05-21 18:46:54,722 | INFO | Page 4
+2026-05-21 18:46:58,471 | INFO | Total rows so far: 400
+2026-05-21 18:47:01,516 | INFO | Page 5
+2026-05-21 18:47:05,427 | INFO | Total rows so far: 500
+2026-05-21 18:47:08,485 | INFO | Page 6
+2026-05-21 18:47:12,383 | INFO | Total rows so far: 600
+2026-05-21 18:47:15,429 | INFO | Page 7
+2026-05-21 18:47:19,247 | INFO | Total rows so far: 700
+2026-05-21 18:47:22,296 | INFO | Page 8
+2026-05-21 18:47:26,206 | INFO | Total rows so far: 800
+2026-05-21 18:47:29,258 | INFO | Page 9
+2026-05-21 18:47:33,068 | INFO | Total rows so far: 900
+2026-05-21 18:47:36,114 | INFO | Page 10
+2026-05-21 18:47:39,942 | INFO | Total rows so far: 1000
+2026-05-21 18:47:42,988 | INFO | Page 11
+2026-05-21 18:47:46,900 | INFO | Total rows so far: 1100
+2026-05-21 18:47:49,958 | INFO | Page 12
+2026-05-21 18:47:53,785 | INFO | Total rows so far: 1200
+2026-05-21 18:47:56,833 | INFO | Page 13
+2026-05-21 18:48:00,752 | INFO | Total rows so far: 1300
+2026-05-21 18:48:03,801 | INFO | Page 14
+2026-05-21 18:48:07,610 | INFO | Total rows so far: 1400
+2026-05-21 18:48:10,660 | INFO | Page 15
+2026-05-21 18:48:14,494 | INFO | Total rows so far: 1500
+2026-05-21 18:48:17,528 | INFO | Page 16
+2026-05-21 18:48:18,008 | INFO | Total rows so far: 1512
+2026-05-21 18:48:18,017 | INFO | Last page reached
+2026-05-21 18:48:18,031 | INFO | Saved 1512 rows
+2026-05-21 18:48:18,031 | INFO | Saved file at: C:\Users\addys\OneDrive\Desktop\Sports\Linkedin\data\Cbse_scraper\output\cbse_schools_data_prayagraj.csv
+2026-05-21 18:48:55,283 | INFO | Starting REGION WISE scrape
+2026-05-21 18:48:58,314 | INFO | Clicked Region Wise radio
+2026-05-21 18:49:42,264 | INFO | Selected region: Patna
+2026-05-21 18:49:44,436 | INFO | Search clicked successfully
+2026-05-21 18:49:49,436 | INFO | Setting entries per page to 100
+2026-05-21 18:49:52,533 | INFO | Page 1
+2026-05-21 18:49:56,836 | INFO | Total rows so far: 100
+2026-05-21 18:49:59,909 | INFO | Page 2
+2026-05-21 18:50:04,207 | INFO | Total rows so far: 200
+2026-05-21 18:50:07,249 | INFO | Page 3
+2026-05-21 18:50:11,178 | INFO | Total rows so far: 300
+2026-05-21 18:50:14,222 | INFO | Page 4
+2026-05-21 18:50:18,085 | INFO | Total rows so far: 400
+2026-05-21 18:50:21,130 | INFO | Page 5
+2026-05-21 18:50:25,080 | INFO | Total rows so far: 500
+2026-05-21 18:50:28,124 | INFO | Page 6
+2026-05-21 18:50:32,045 | INFO | Total rows so far: 600
+2026-05-21 18:50:35,090 | INFO | Page 7
+2026-05-21 18:50:38,987 | INFO | Total rows so far: 700
+2026-05-21 18:50:42,044 | INFO | Page 8
+2026-05-21 18:50:45,995 | INFO | Total rows so far: 800
+2026-05-21 18:50:49,039 | INFO | Page 9
+2026-05-21 18:50:52,951 | INFO | Total rows so far: 900
+2026-05-21 18:50:55,995 | INFO | Page 10
+2026-05-21 18:50:59,883 | INFO | Total rows so far: 1000
+2026-05-21 18:51:02,943 | INFO | Page 11
+2026-05-21 18:51:06,950 | INFO | Total rows so far: 1100
+2026-05-21 18:51:09,999 | INFO | Page 12
+2026-05-21 18:51:13,950 | INFO | Total rows so far: 1200
+2026-05-21 18:51:16,995 | INFO | Page 13
+2026-05-21 18:51:20,905 | INFO | Total rows so far: 1300
+2026-05-21 18:51:23,950 | INFO | Page 14
+2026-05-21 18:51:27,940 | INFO | Total rows so far: 1400
+2026-05-21 18:51:30,973 | INFO | Page 15
+2026-05-21 18:51:31,070 | INFO | Total rows so far: 1402
+2026-05-21 18:51:31,079 | INFO | Last page reached
+2026-05-21 18:51:31,092 | INFO | Saved 1402 rows
+2026-05-21 18:51:31,092 | INFO | Saved file at: C:\Users\addys\OneDrive\Desktop\Sports\Linkedin\data\Cbse_scraper\output\cbse_schools_data_Patna.csv
+2026-05-21 18:53:27,605 | INFO | Starting REGION WISE scrape
+2026-05-21 18:53:30,640 | INFO | Clicked Region Wise radio
+2026-05-21 18:54:27,488 | INFO | Selected region: Bhubaneswar
+2026-05-21 18:54:29,646 | INFO | Search clicked successfully
+2026-05-21 18:54:34,647 | INFO | Setting entries per page to 100
+2026-05-21 18:54:37,739 | INFO | Page 1
+2026-05-21 18:54:41,568 | INFO | Total rows so far: 100
+2026-05-21 18:54:44,635 | INFO | Page 2
+2026-05-21 18:54:48,566 | INFO | Total rows so far: 200
+2026-05-21 18:54:51,614 | INFO | Page 3
+2026-05-21 18:54:55,544 | INFO | Total rows so far: 300
+2026-05-21 18:54:58,591 | INFO | Page 4
+2026-05-21 18:55:02,396 | INFO | Total rows so far: 400
+2026-05-21 18:55:05,441 | INFO | Page 5
+2026-05-21 18:55:09,308 | INFO | Total rows so far: 500
+2026-05-21 18:55:12,366 | INFO | Page 6
+2026-05-21 18:55:16,235 | INFO | Total rows so far: 600
+2026-05-21 18:55:19,289 | INFO | Page 7
+2026-05-21 18:55:23,119 | INFO | Total rows so far: 700
+2026-05-21 18:55:26,166 | INFO | Page 8
+2026-05-21 18:55:30,130 | INFO | Total rows so far: 800
+2026-05-21 18:55:33,179 | INFO | Page 9
+2026-05-21 18:55:37,077 | INFO | Total rows so far: 900
+2026-05-21 18:55:40,125 | INFO | Page 10
+2026-05-21 18:55:43,994 | INFO | Total rows so far: 1000
+2026-05-21 18:55:47,044 | INFO | Page 11
+2026-05-21 18:55:50,883 | INFO | Total rows so far: 1100
+2026-05-21 18:55:53,950 | INFO | Page 12
+2026-05-21 18:55:57,876 | INFO | Total rows so far: 1200
+2026-05-21 18:56:00,924 | INFO | Page 13
+2026-05-21 18:56:04,790 | INFO | Total rows so far: 1300
+2026-05-21 18:56:07,838 | INFO | Page 14
+2026-05-21 18:56:11,642 | INFO | Total rows so far: 1400
+2026-05-21 18:56:14,683 | INFO | Page 15
+2026-05-21 18:56:17,079 | INFO | Total rows so far: 1456
+2026-05-21 18:56:17,087 | INFO | Last page reached
+2026-05-21 18:56:17,102 | INFO | Saved 1456 rows
+2026-05-21 18:56:17,102 | INFO | Saved file at: C:\Users\addys\OneDrive\Desktop\Sports\Linkedin\data\Cbse_scraper\output\cbse_schools_data_Bhubaneswar.csv
+2026-05-21 18:56:39,313 | INFO | Starting REGION WISE scrape
+2026-05-21 18:56:42,343 | INFO | Clicked Region Wise radio
+2026-05-21 18:56:58,516 | INFO | Selected region: Trivendram
+2026-05-21 18:57:00,675 | INFO | Search clicked successfully
+2026-05-21 18:57:05,676 | INFO | Setting entries per page to 100
+2026-05-21 18:57:08,771 | INFO | Page 1
+2026-05-21 18:57:12,578 | INFO | Total rows so far: 100
+2026-05-21 18:57:15,626 | INFO | Page 2
+2026-05-21 18:57:19,403 | INFO | Total rows so far: 200
+2026-05-21 18:57:22,464 | INFO | Page 3
+2026-05-21 18:57:26,297 | INFO | Total rows so far: 300
+2026-05-21 18:57:29,341 | INFO | Page 4
+2026-05-21 18:57:33,121 | INFO | Total rows so far: 400
+2026-05-21 18:57:36,166 | INFO | Page 5
+2026-05-21 18:57:40,055 | INFO | Total rows so far: 500
+2026-05-21 18:57:43,123 | INFO | Page 6
+2026-05-21 18:57:47,132 | INFO | Total rows so far: 600
+2026-05-21 18:57:50,178 | INFO | Page 7
+2026-05-21 18:57:54,175 | INFO | Total rows so far: 700
+2026-05-21 18:57:57,224 | INFO | Page 8
+2026-05-21 18:58:01,027 | INFO | Total rows so far: 800
+2026-05-21 18:58:04,072 | INFO | Page 9
+2026-05-21 18:58:08,021 | INFO | Total rows so far: 900
+2026-05-21 18:58:11,070 | INFO | Page 10
+2026-05-21 18:58:14,987 | INFO | Total rows so far: 1000
+2026-05-21 18:58:18,033 | INFO | Page 11
+2026-05-21 18:58:21,863 | INFO | Total rows so far: 1100
+2026-05-21 18:58:24,910 | INFO | Page 12
+2026-05-21 18:58:28,775 | INFO | Total rows so far: 1200
+2026-05-21 18:58:31,835 | INFO | Page 13
+2026-05-21 18:58:35,666 | INFO | Total rows so far: 1300
+2026-05-21 18:58:38,720 | INFO | Page 14
+2026-05-21 18:58:42,469 | INFO | Total rows so far: 1400
+2026-05-21 18:58:45,536 | INFO | Page 15
+2026-05-21 18:58:49,188 | INFO | Total rows so far: 1491
+2026-05-21 18:58:49,196 | INFO | Last page reached
+2026-05-21 18:58:49,212 | INFO | Saved 1491 rows
+2026-05-21 18:58:49,212 | INFO | Saved file at: C:\Users\addys\OneDrive\Desktop\Sports\Linkedin\data\Cbse_scraper\output\cbse_schools_data_Trivendram.csv
+2026-05-21 18:59:51,293 | INFO | Starting REGION WISE scrape
+2026-05-21 18:59:54,323 | INFO | Clicked Region Wise radio
+2026-05-21 19:00:07,275 | INFO | Selected region: Dehradun
+2026-05-21 19:00:09,409 | INFO | Search clicked successfully
+2026-05-21 19:00:14,417 | INFO | Setting entries per page to 100
+2026-05-21 19:00:17,497 | INFO | Page 1
+2026-05-21 19:00:21,466 | INFO | Total rows so far: 100
+2026-05-21 19:00:24,518 | INFO | Page 2
+2026-05-21 19:00:28,384 | INFO | Total rows so far: 200
+2026-05-21 19:00:31,440 | INFO | Page 3
+2026-05-21 19:00:35,257 | INFO | Total rows so far: 300
+2026-05-21 19:00:38,311 | INFO | Page 4
+2026-05-21 19:00:42,187 | INFO | Total rows so far: 400
+2026-05-21 19:00:45,244 | INFO | Page 5
+2026-05-21 19:00:49,097 | INFO | Total rows so far: 500
+2026-05-21 19:00:52,160 | INFO | Page 6
+2026-05-21 19:00:56,042 | INFO | Total rows so far: 600
+2026-05-21 19:00:59,098 | INFO | Page 7
+2026-05-21 19:01:03,123 | INFO | Total rows so far: 700
+2026-05-21 19:01:06,186 | INFO | Page 8
+2026-05-21 19:01:10,291 | INFO | Total rows so far: 800
+2026-05-21 19:01:13,353 | INFO | Page 9
+2026-05-21 19:01:17,198 | INFO | Total rows so far: 900
+2026-05-21 19:01:20,252 | INFO | Page 10
+2026-05-21 19:01:24,170 | INFO | Total rows so far: 1000
+2026-05-21 19:01:27,218 | INFO | Page 11
+2026-05-21 19:01:31,092 | INFO | Total rows so far: 1100
+2026-05-21 19:01:34,141 | INFO | Page 12
+2026-05-21 19:01:37,917 | INFO | Total rows so far: 1200
+2026-05-21 19:01:40,971 | INFO | Page 13
+2026-05-21 19:01:44,730 | INFO | Total rows so far: 1300
+2026-05-21 19:01:47,779 | INFO | Page 14
+2026-05-21 19:01:51,641 | INFO | Total rows so far: 1400
+2026-05-21 19:01:54,689 | INFO | Page 15
+2026-05-21 19:01:58,479 | INFO | Total rows so far: 1500
+2026-05-21 19:02:01,551 | INFO | Page 16
+2026-05-21 19:02:04,810 | INFO | Total rows so far: 1585
+2026-05-21 19:02:04,819 | INFO | Last page reached
+2026-05-21 19:02:04,834 | INFO | Saved 1585 rows
+2026-05-21 19:02:04,835 | INFO | Saved file at: C:\Users\addys\OneDrive\Desktop\Sports\Linkedin\data\Cbse_scraper\output\cbse_schools_data_Dehradun.csv
+2026-05-21 19:02:26,378 | INFO | Starting REGION WISE scrape
+2026-05-21 19:02:29,410 | INFO | Clicked Region Wise radio
+2026-05-21 19:02:50,568 | INFO | Selected region: BANGALURU
+2026-05-21 19:02:52,770 | INFO | Search clicked successfully
+2026-05-21 19:02:57,770 | INFO | Setting entries per page to 100
+2026-05-21 19:03:00,852 | INFO | Page 1
+2026-05-21 19:03:04,690 | INFO | Total rows so far: 100
+2026-05-21 19:03:07,747 | INFO | Page 2
+2026-05-21 19:03:11,601 | INFO | Total rows so far: 200
+2026-05-21 19:03:14,651 | INFO | Page 3
+2026-05-21 19:03:18,567 | INFO | Total rows so far: 300
+2026-05-21 19:03:21,617 | INFO | Page 4
+2026-05-21 19:03:25,724 | INFO | Total rows so far: 400
+2026-05-21 19:03:28,796 | INFO | Page 5
+2026-05-21 19:03:32,586 | INFO | Total rows so far: 500
+2026-05-21 19:03:35,641 | INFO | Page 6
+2026-05-21 19:03:39,642 | INFO | Total rows so far: 600
+2026-05-21 19:03:42,705 | INFO | Page 7
+2026-05-21 19:03:46,619 | INFO | Total rows so far: 700
+2026-05-21 19:03:49,669 | INFO | Page 8
+2026-05-21 19:03:53,523 | INFO | Total rows so far: 800
+2026-05-21 19:03:56,572 | INFO | Page 9
+2026-05-21 19:04:00,606 | INFO | Total rows so far: 900
+2026-05-21 19:04:03,674 | INFO | Page 10
+2026-05-21 19:04:07,506 | INFO | Total rows so far: 1000
+2026-05-21 19:04:10,554 | INFO | Page 11
+2026-05-21 19:04:14,411 | INFO | Total rows so far: 1100
+2026-05-21 19:04:17,464 | INFO | Page 12
+2026-05-21 19:04:21,499 | INFO | Total rows so far: 1200
+2026-05-21 19:04:24,564 | INFO | Page 13
+2026-05-21 19:04:28,544 | INFO | Total rows so far: 1300
+2026-05-21 19:04:31,601 | INFO | Page 14
+2026-05-21 19:04:35,491 | INFO | Total rows so far: 1400
+2026-05-21 19:04:38,541 | INFO | Page 15
+2026-05-21 19:04:42,514 | INFO | Total rows so far: 1500
+2026-05-21 19:04:45,578 | INFO | Page 16
+2026-05-21 19:04:49,528 | INFO | Total rows so far: 1600
+2026-05-21 19:04:52,582 | INFO | Page 17
+2026-05-21 19:04:56,423 | INFO | Total rows so far: 1700
+2026-05-21 19:04:59,478 | INFO | Page 18
+2026-05-21 19:05:03,305 | INFO | Total rows so far: 1800
+2026-05-21 19:05:06,357 | INFO | Page 19
+2026-05-21 19:05:08,264 | INFO | Total rows so far: 1849
+2026-05-21 19:05:08,281 | INFO | Last page reached
+2026-05-21 19:05:08,299 | INFO | Saved 1849 rows
+2026-05-21 19:05:08,299 | INFO | Saved file at: C:\Users\addys\OneDrive\Desktop\Sports\Linkedin\data\Cbse_scraper\output\cbse_schools_data_BANGALURU.csv
